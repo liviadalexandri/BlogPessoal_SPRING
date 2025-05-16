@@ -170,10 +170,10 @@ Para executar os códigos localmente, você precisará:
  
 ### 7.1. Importando o Projeto
  
-1. Clone o repositório do Projeto [Blog Pessoal](https://github.com/rafaelq80/blogpessoal_spring_t82) dentro da pasta do *Workspace* do STS
+1. Clone o repositório do Projeto [Blog Pessoal](https://github.com/liviadalexandri/blogpessoal_spring.git) dentro da pasta do *Workspace* do STS
  
 ```bash
-git clone https://github.com/rafaelq80/blogpessoal_spring_t82.git
+git clone https://github.com/liviadalexandri/blogpessoal_spring.git
 ```
  
 2. **Abra o STS** e selecione a pasta do *Workspace* onde você clonou o repositório do projeto
