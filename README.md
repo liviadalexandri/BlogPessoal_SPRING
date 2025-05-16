@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Blog Pessoal - Backend com Spring Boot
  
 <br />
@@ -217,3 +218,6 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 ##  9. Contato
  
 <br />
+=======
+# Blogpessoal_Spring
+>>>>>>> fdeb98d17f7fb7a9def550e85c882408fa03e8d8
